@@ -7,6 +7,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [.NET](https://learn.microsoft.com/en-us/dotnet/)
 - [Microsoft.EntityFrameworkCore.InMemory](https://learn.microsoft.com/pt-br/ef/core/providers/in-memory/?tabs=dotnet-core-cli)
+- [Swagger](https://swagger.io)
 
 ## 💻 Projeto
 
