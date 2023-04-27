@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse é um projeto básico utilizando o .NET 6 para testar o novo recurso das 'Minimal API' que foram adicionados. Foi feita uma API para cadastrar Tarefas,
 onde o usuário insere o nome da tarefa e informa se ela está concluída, não foi usado um BD para persistir os dados, os mesmos foram persistidos em memória
-usando pacote Microsoft.EntityFrameworkCore.InMemory.
+usando o pacote Microsoft.EntityFrameworkCore.InMemory.
 
 ## 📧 Contatos
 
